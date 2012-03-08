@@ -5,8 +5,8 @@ api_version: 1
 
 handlers:
 - url: /
-	static_files: assets/index.html
-	upload: assets/index.html
+  static_files: assets/index.html
+  upload: assets/index.html
 
 - url: /
-	static_dir: assets
+  static_dir: assets
